@@ -80,6 +80,6 @@ Here is the output to the program (constant tracking of face with no name and ou
 
 <img width="365" alt="Screen Shot 2022-05-15 at 1 43 57 PM" src="https://user-images.githubusercontent.com/91576538/168458964-30b33fb8-bf09-43da-b1d8-5a2319bcf1c6.png">
 
-<img width="158" alt="Screen Shot 2022-05-15 at 1 42 26 PM" src="https://user-images.githubusercontent.com/91576538/168458968-d09b1ec1-6dc7-4ade-99e4-c5c6837ed869.png">
-
 <img width="148" alt="Screen Shot 2022-05-15 at 1 42 41 PM" src="https://user-images.githubusercontent.com/91576538/168458971-84a7b878-d01b-4dc6-a4ab-5ef327fe8ec0.png">
+
+<img width="158" alt="Screen Shot 2022-05-15 at 1 42 26 PM" src="https://user-images.githubusercontent.com/91576538/168458968-d09b1ec1-6dc7-4ade-99e4-c5c6837ed869.png">
