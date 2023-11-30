@@ -37,7 +37,7 @@ Here are the steps to follow in order to correctly set up your computer to run t
     If an error does not appear, python has successfully been installed!
     If an error does appear, repeat steps 3-4.
 
-6. Now that python has been installed, it's time to install anaconda which will allow for data science packages to be imported into python. Use the following link to install the latest version of anaconda.
+6. Now that Python has been installed, it's time to install Anaconda which will allow for data science packages to be imported into python. Use the following link to install the latest version of anaconda.
 
     https://www.anaconda.com/products/individual
     
